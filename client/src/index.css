@@ -24,3 +24,54 @@ i:hover{
   color: #ffffff;
   font-size: 25px;
 }
+
+/* Loader Animation */
+
+.s{
+  animation: s is infinite;
+}
+
+@keyframes s{
+  0%{
+    opacity: 1;
+  }
+  50%{
+    opacity: 0.5;
+  }
+  100%{
+    opacity: 0.5;
+  }
+}
+
+.i{
+  animation: i is infinite;
+}
+
+@keyframes i{
+  0%{
+    opacity: 0.5;
+  }
+  50%{
+    opacity: 1;
+  }
+  100%{
+    opacity: 0.5;
+  }
+}
+
+.n{
+  animation: n is infinite;
+}
+
+@keyframes n {
+  0%{
+    opacity: 0.5;
+  }
+  50%{
+    opacity: 0.5;
+  }
+  100%{
+    opacity: 1;
+  }
+}
+
