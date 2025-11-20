@@ -1,39 +1,39 @@
 export const courses = [
     {
-        _id: "1234",
         title : "Drone Developer",
         image : "https://sheysathya2.netlify.app/hotels.svg",
-        link : "/"
+        link : "/",
+        description : ""
     },
      {
-        _id: "1244",
         title : "React Developer",
         image : "https://sheysathya2.netlify.app/cars.svg",
-        link : "/"
+        link : "/",
+        description : ""
     },
        {
-        _id: "1254",
         title : "Javascript Developer",
         image : "https://sheysathya2.netlify.app/pizzas.svg",
-        link : "/"
+        link : "/",
+        description : ""
     },
       {
-        _id: "1234",
         title : "Drone Developer",
         image : "https://sheysathya2.netlify.app/cars.svg",
-        link : "/"
+        link : "/",
+        description : ""
     },
      {
-        _id: "1244",
         title : "React Developer",
         image : "https://sheysathya2.netlify.app/hotels.svg",
-        link : "/"
+        link : "/",
+        description : ""
     },
        {
-        _id: "1254",
         title : "Javascript Developer",
         image : "https://sheysathya2.netlify.app/jobs.svg",
-        link : "/"
+        link : "/",
+        description : ""
     }
 
 ]

@@ -4,10 +4,11 @@ import SectionTitle from "../../components/SectionTitle";
 function Contact() {
   const user = {
     name: "Sebona Ifa Negewo",
+    gender: "Male",
     email: "sebonaifa777@gmail.com",
-    Phone_No: "+251949557556",
-    Job: "FullStack Developer",
-    Country: "Ethiopia",
+    mobile: "+251949557556",
+    age: "FullStack Developer",
+    address: "Ethiopia",
   };
   return (
     <div>
